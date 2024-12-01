@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grug/advent-of-code-2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grug/advent-of-code-2024/issues"
+  },
+  "homepage": "https://github.com/grug/advent-of-code-2024#readme",
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
